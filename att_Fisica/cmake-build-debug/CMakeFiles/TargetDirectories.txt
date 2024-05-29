@@ -1,0 +1,3 @@
+C:/TI/C++/Aula/Brito/att_Fisica/cmake-build-debug/CMakeFiles/att_Fisica.dir
+C:/TI/C++/Aula/Brito/att_Fisica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TI/C++/Aula/Brito/att_Fisica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
